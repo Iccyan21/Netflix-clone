@@ -1,5 +1,5 @@
 
-const API_KEY = "8e56e6a5a55d359594379fff5c9a4856"; // TMDBのAPIKeyを入れる
+const API_KEY = ""; // TMDBのAPIKeyを入れる
 
 export const requests ={
     feachTrending:`/trending/all/week?api_key=${API_KEY}&language=en-us`,
